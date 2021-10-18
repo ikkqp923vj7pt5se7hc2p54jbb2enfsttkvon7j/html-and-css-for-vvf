@@ -66,3 +66,32 @@ ol {
 ol li a{
     color: gray;
 }
+
+#firstt {	
+	background-color:#6699ff;	
+    border-spacing:0px;	
+    padding:0px;	
+    border: 3px solid #6699ff;	
+    width:800px;	
+    margin-right: auto;	
+    margin-left: auto;	
+    	
+}	
+
+#secondt {	
+	background-color:white;	
+    border-spacing:0px;	
+    padding:0px;	
+    border: 3px solid #6699FF;	
+    width:800px;	
+    margin-right: auto;	
+    margin-left: auto;	
+}	
+
+#tagr {	
+    background-color: #6699FF;	
+}
+
+#tagd {	
+    width: 100px;
+} 
